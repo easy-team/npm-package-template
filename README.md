@@ -7,18 +7,18 @@
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/easywebpack-vue.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/easywebpack-vue
-[travis-image]: https://img.shields.io/travis/hubcarl/easywebpack-vue.svg?style=flat-square
-[travis-url]: https://travis-ci.org/hubcarl/easywebpack-vue
-[codecov-image]: https://img.shields.io/codecov/c/github/hubcarl/easywebpack-vue.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/hubcarl/easywebpack-vue?branch=master
-[david-image]: https://img.shields.io/david/hubcarl/easywebpack-vue.svg?style=flat-square
-[david-url]: https://david-dm.org/hubcarl/easywebpack-vue
-[snyk-image]: https://snyk.io/test/npm/easywebpack-vue/badge.svg?style=flat-square
-[snyk-url]: https://snyk.io/test/npm/easywebpack-vue
-[download-image]: https://img.shields.io/npm/dm/easywebpack-vue.svg?style=flat-square
-[download-url]: https://npmjs.org/package/easywebpack-vue
+[npm-image]: https://img.shields.io/npm/v/npm-package-template.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/npm-package-template
+[travis-image]: https://img.shields.io/travis/hubcarl/npm-package-template.svg?style=flat-square
+[travis-url]: https://travis-ci.org/hubcarl/npm-package-template
+[codecov-image]: https://img.shields.io/codecov/c/github/hubcarl/npm-package-template.svg?style=flat-square
+[codecov-url]: https://codecov.io/github/hubcarl/npm-package-template?branch=master
+[david-image]: https://img.shields.io/david/hubcarl/npm-package-template.svg?style=flat-square
+[david-url]: https://david-dm.org/hubcarl/npm-package-template
+[snyk-image]: https://snyk.io/test/npm/npm-package-template/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/npm-package-template
+[download-image]: https://img.shields.io/npm/dm/npm-package-template.svg?style=flat-square
+[download-url]: https://npmjs.org/package/npm-package-template
 
 NPM package template, It's easy for you to write a npm package by this NPM package template.
 
