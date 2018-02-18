@@ -1,6 +1,6 @@
 {
   "name": "npm-package-code-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package template",
   "keywords": [
     "npm",
@@ -35,10 +35,6 @@
     "ci": "npm run lint && npm run cov",
     "ii": "npm install --registry https://registry.npm.taobao.org"
   },
-  "files": [
-    "index.js",
-    "lib"
-  ],
   "nyc": {
     "exclude": [
       "**/*.spec.js",
